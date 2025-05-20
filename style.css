@@ -1,0 +1,95 @@
+*{
+	margin:0;
+	padding:0;
+}
+#first{
+	
+}
+.container{
+	max-width:1170px;
+	margin:0 auto;
+	padding:70px 0;
+	overflow:hidden;
+}
+.full-width{
+	margin: 50px;
+}
+.logo{
+	float:left;
+	width:30%;	
+}
+.menu{
+	margin-top: 50px;
+	float:left;
+	width:70%
+}
+.menu ul{
+	
+}
+.menu ul li{
+	list-style:none;
+	float:left;
+	padding-left: 20px;
+}
+.menu ul li a{
+	font-size: 30px;
+	padding: 10px 15px;
+	text-decoration: none;
+	color: #FF0000;
+	background:#121325;
+}
+.menu ul li a:hover{
+	color:#FFFFFF;
+	background:#FF0000;
+}
+#second-section{
+	background:url(images/bgrpic-copy-19.jpg) no-repeat;
+	background-size:cover;
+	background-position:center center;
+	background-attachment:fixed;
+}
+.content{
+	text-align:center;
+	padding:100px 0;
+	color:#F7F7F6;
+}
+.content h2{
+	font-size:40px;
+	font-style:italic;
+}
+.content p{
+	font-size:25px;
+	
+}
+#third-section{
+	padding-bottom:50px;
+}
+.section-top{
+	text-align:center;
+	padding:20px 0;
+	
+}
+.section-top h2{
+	font-size:30px;
+	color:gray;
+	text-shadow:1px 2px 1px black;
+}
+.section-top p{
+	font-size:20px;
+}
+.third-contant{
+	
+}
+.contant-contant{
+	max-width:33%;
+	float:left;
+	text-align:center;
+}
+.contant-contant h2{
+	font-size:30px;
+	color:gray;
+	text-shadow:1px 2px 1px black;
+}
+.contant-contant p{
+	font-size:20px;
+}
